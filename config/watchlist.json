@@ -1,0 +1,51 @@
+{
+  "MU": {
+    "support": [920, 880, 850, 820],
+    "avg_cost": 996,
+    "position_thb": 1000,
+    "priority": "high",
+    "note": "AI memory / HBM theme"
+  },
+  "NVDA": {
+    "support": [205, 200, 190],
+    "avg_cost": 214,
+    "position_thb": 3500,
+    "priority": "high",
+    "note": "Core AI chip holding"
+  },
+  "GOOGL": {
+    "support": [360, 350, 340],
+    "avg_cost": 0,
+    "position_thb": 6500,
+    "priority": "high",
+    "note": "Core big tech / AI / search / cloud"
+  },
+  "RKLB": {
+    "support": [108, 100, 95],
+    "avg_cost": 129.08,
+    "position_thb": 1000,
+    "priority": "medium",
+    "note": "High-risk growth / space stock"
+  },
+  "ANET": {
+    "support": [152, 150, 145],
+    "avg_cost": 0,
+    "position_thb": 400,
+    "priority": "medium",
+    "note": "AI infrastructure / networking"
+  },
+  "AAPL": {
+    "support": [190, 180, 170],
+    "avg_cost": 0,
+    "position_thb": 2500,
+    "priority": "medium",
+    "note": "Core big tech"
+  },
+  "VOO": {
+    "support": [550, 530, 500],
+    "avg_cost": 0,
+    "position_thb": 2300,
+    "priority": "low",
+    "note": "S&P 500 ETF"
+  }
+}
